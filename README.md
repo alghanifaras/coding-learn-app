@@ -1,66 +1,213 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🚀 Coding Learn App
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<div align="center">
 
-## About Laravel
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.1.0-green?style=for-the-badge)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### 🎓 Interactive Programming Learning Platform
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Belajar pemrograman secara interaktif dengan pengalaman modern, terstruktur, dan menyenangkan.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+</div>
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## ✨ Tentang Proyek
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+**Coding Learn App** adalah platform pembelajaran pemrograman interaktif yang dirancang untuk membantu pengguna mempelajari berbagai bahasa pemrograman melalui lesson terstruktur, tantangan coding, kuis, dan sistem progres.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Aplikasi ini mengusung konsep pembelajaran seperti game, sehingga pengguna dapat belajar secara konsisten dan termotivasi.
 
-## Laravel Sponsors
+> 🚧 **Project ini masih dalam tahap pengembangan aktif (Work in Progress).** Fitur dan struktur aplikasi dapat berubah seiring proses development.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+---
 
-### Premium Partners
+## 🌟 Fitur Utama
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### 📚 Structured Learning Paths
 
-## Contributing
+* Materi pembelajaran yang disusun dari dasar hingga lanjutan.
+* Mendukung berbagai bahasa pemrograman.
+* Lesson berbasis teori, contoh, dan praktik.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### 🧩 Interactive Coding Challenges
 
-## Code of Conduct
+* Latihan coding langsung di browser.
+* Validasi jawaban otomatis.
+* Tantangan dengan tingkat kesulitan bertahap.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### 📝 Quizzes & Assessments
 
-## Security Vulnerabilities
+* Soal pilihan ganda.
+* Fill-in-the-code.
+* Evaluasi pemahaman pengguna.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### 🏆 Gamification System
 
-## License
+* Experience Points (XP).
+* Level progression.
+* Streak harian.
+* Achievement badges.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 📊 Progress Tracking
+
+* Monitoring progres pembelajaran.
+* Riwayat lesson yang telah diselesaikan.
+* Statistik performa.
+
+### 🎯 Daily Goals
+
+* Target belajar harian.
+* Reminder untuk menjaga konsistensi.
+
+### 🧠 Skill Trees
+
+* Visualisasi jalur belajar.
+* Unlock lesson berdasarkan progres.
+
+### 👤 User Profiles
+
+* Informasi profil pengguna.
+* Statistik belajar.
+* Achievement collection.
+
+### 🏅 Leaderboards
+
+* Peringkat pengguna berdasarkan XP.
+* Kompetisi belajar yang sehat.
+
+### 📱 Responsive Design
+
+* Tampilan optimal untuk desktop, tablet, dan mobile.
+
+### 🌙 Modern UI/UX
+
+* Antarmuka modern dan intuitif.
+* Dukungan dark mode.
+* Desain yang fokus pada pengalaman belajar.
+
+### 🔐 Authentication & Authorization
+
+* Registrasi dan login.
+* Role-based access control.
+* Manajemen akun pengguna.
+
+### 🛠️ Admin Dashboard
+
+* Manajemen course.
+* Manajemen lesson.
+* Monitoring pengguna.
+* Statistik platform.
+
+### 🔔 Notifications
+
+* Notifikasi progres.
+* Pengingat belajar.
+* Informasi achievement.
+
+### ☁️ Cloud Storage Support
+
+* Penyimpanan data pengguna secara aman.
+* Sinkronisasi lintas perangkat.
+
+---
+
+## 🧱 Planned Modules
+
+* Authentication System
+* Course Management
+* Lesson Engine
+* Code Execution Engine
+* Quiz System
+* XP & Level System
+* Achievement System
+* Streak System
+* Leaderboard System
+* Notification System
+* Admin Panel
+* Analytics Dashboard
+
+---
+
+## 🎯 Target Pengguna
+
+* Pelajar dan mahasiswa.
+* Pemula yang ingin belajar coding.
+* Programmer yang ingin mempelajari bahasa baru.
+* Guru dan instruktur pemrograman.
+
+---
+
+## 🛣️ Development Status
+
+| Module              | Status         |
+| ------------------- | -------------- |
+| Project Planning    | ✅ Completed    |
+| System Architecture | ✅ Completed    |
+| Database Design     | ✅ Completed    |
+| Authentication      | 🚧 In Progress |
+| Learning System     | 🚧 In Progress |
+| Gamification        | ⏳ Planned      |
+| Admin Dashboard     | ⏳ Planned      |
+| Deployment          | ⏳ Planned      |
+
+---
+
+## 🔮 Roadmap
+
+### Phase 1 — Foundation
+
+* Project setup
+* Authentication
+* Database schema
+* Shared packages
+
+### Phase 2 — Core Learning
+
+* Courses and lessons
+* Quiz engine
+* Progress tracking
+
+### Phase 3 — Gamification
+
+* XP and levels
+* Achievements
+* Leaderboards
+
+### Phase 4 — Administration
+
+* Admin dashboard
+* Content management
+* Analytics
+
+### Phase 5 — Production Release
+
+* Testing
+* Optimization
+* Deployment
+
+---
+
+## 🤝 Contributing
+
+Kontribusi sangat terbuka. Jika Anda memiliki ide, saran, atau ingin membantu pengembangan proyek ini, silakan buat issue atau pull request.
+
+---
+
+## 📄 License
+
+Project ini dirilis di bawah lisensi MIT.
+
+---
+
+<div align="center">
+
+### 💻 Coding Learn App
+
+**Learn Programming Interactively. Build Skills Consistently.**
+
+🚧 Currently Under Active Development
+
+</div>
