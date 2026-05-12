@@ -25,7 +25,8 @@ class User extends Authenticatable
         'role',
         'total_xp',
         'level',
-        'hearts'
+        'hearts',
+        'gems'
     ];
 
     public function progress()

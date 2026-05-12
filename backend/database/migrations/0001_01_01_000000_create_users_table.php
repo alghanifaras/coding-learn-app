@@ -20,7 +20,8 @@ return new class extends Migration
             $table->string('role')->default('student');
             $table->integer('total_xp')->default(0);
             $table->integer('level')->default(1);
-            $table->integer('hearts')->default(5); 
+            $table->integer('hearts')->default(5);
+            $table->integer('gems')->default(100); 
             $table->rememberToken();
             $table->timestamps();
         });

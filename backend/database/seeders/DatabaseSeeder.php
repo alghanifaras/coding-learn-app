@@ -20,5 +20,7 @@ class DatabaseSeeder extends Seeder
             'email' => 'hikmal@example.com',
             'password' => bcrypt('password'),
         ]);
+
+        $this->call(GamificationSeeder::class);
     }
 }
